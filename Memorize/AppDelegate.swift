@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Memorize
+//  kkkkkk
 //
-//  Created by lipaji on 2020/12/24.
+//  Created by lipaji on 2020/12/23.
 //
 
 import UIKit
